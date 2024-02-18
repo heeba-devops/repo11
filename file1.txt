@@ -1,4 +1,2 @@
-this is file1
-hi modifiued by c1
 
 changing content by main
